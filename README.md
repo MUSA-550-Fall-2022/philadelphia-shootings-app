@@ -84,7 +84,7 @@ git ci -a -m 'adding files to repository'
    command from the command line:
 
 ```
-git push heroku
+git push heroku main
 ```
 
 7. Visit the app at app-name.herokuapp.com
